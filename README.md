@@ -1,6 +1,7 @@
 # analisis_raster_mapas
 Guardando descripciones a utilizar en mapas y sig
 Encontré este código sobre  el índice ndwi.  Lo guardo para tenerlo a la mano y utilizarlo en análisis de  rasters en el programa qgis.
+Lo descargué de https://github.com/sentinel-hub/custom-scripts/blob/master/sentinel-2/ndwi/script.js
 // Fuente: https://en.wikipedia.org/wiki/Normalized_difference_water_index
 
 // opción 1, utilizada para monitorear los cambios en el contenido de agua de las hojas, propuesta por Gao
